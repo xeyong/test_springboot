@@ -1,4 +1,6 @@
-com/seyong/test/web/HelloController.java
- com.seyong.test.web.HelloController
+com/seyong/test/domain/posts/PostRepository.java
+ com.seyong.test.domain.posts.PostRepository
+com/seyong/test/domain/posts/Posts.java
+ com.seyong.test.domain.posts.Posts
 com/seyong/test/Application.java
  com.seyong.test.Application
